@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Guccijay
 - 👀 I’m interested in python dev
-- 🌱 I’m currently learning devOps
+- 🌱 DevOps enthusiast
 - 💞️ I’m looking to collaborate on devOps projects
 - 📫 How to reach me ...
 
